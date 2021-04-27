@@ -1,3 +1,5 @@
+const request = indexedDB.open("firstDatabase", 1);
+
 let db;
 let budgetVersion;
 
