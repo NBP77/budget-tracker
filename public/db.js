@@ -1,4 +1,4 @@
-console.log("Hello world");
+
 let db;
 let budgetVersion;
 
