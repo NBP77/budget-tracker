@@ -35,7 +35,7 @@ To check the project, I worked on click on these links:
 
 GitHub: https://github.com/NBP77/budget-tracker
 
-Deployed app: 
+Deployed app: https://ancient-crag-04272.herokuapp.com/ 
 
 ## Usage
 
