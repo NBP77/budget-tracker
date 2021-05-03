@@ -17,16 +17,16 @@ IndexedDB on the DOM so when the internet connection comes back online the user 
 
 Home Page
 
-![Home page](./public/imgs/Homepage.png)
+![Home page](./public/assets/imgs/Homepage.png)
 
 Offline POST
 
-![Offline POST](./public/imgs/Offline-addition.png)
+![Offline POST](./public/assets/imgs/Offline-addition.png)
 
 
 Offline POST saved online
 
-![Offline POST saved online](./public/imgs/Online-saved.png)
+![Offline POST saved online](./public/assets/imgs/Online-saved.png)
 
 
 ## Installation
