@@ -57,4 +57,4 @@ Deployed app: https://ancient-crag-04272.herokuapp.com/
 
 ## Credits
 
-I was able to do most of this based of the activities we have done in class.
+I was able to get most of this application done by referencing the activities. 
